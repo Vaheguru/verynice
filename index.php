@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Congratulations!</h1>
-        <p>Your AWS Elastic Beanstalk is very good very nice day with two milfs <em>PHP</em> I love Universe and as well as  AWS would nice to meet some nice MILFS from USA&nbsp;Cloud</p>
+        <p>Your AWS Elastic Beanstalk is very good very nice day with two milfs to fuck <em>PHP</em> I love Universe and as well as  AWS would nice to meet some nice MILFS from USA&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
 
